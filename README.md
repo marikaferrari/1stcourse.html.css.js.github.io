@@ -1,2 +1,2 @@
-# HTML-CSS-and-Javascript-for-Web-Developers-Coursera
-HTML, CSS, and Javascript for Web Developers / Coursera Course
+# HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University
+HTML, CSS, and Javascript for Web Developers / Johns Hopkins University Course
